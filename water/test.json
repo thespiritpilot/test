@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Respondent ID": "R001",
+    "Average Daily Water Intake (Liters)": 3.5,
+    "Actively Increase Water Intake": false,
+    "Frequency of Adequate Hydration": "Often"
+  },
+  {
+    "Respondent ID": "R002",
+    "Average Daily Water Intake (Liters)": 4.0,
+    "Actively Increase Water Intake": false,
+    "Frequency of Adequate Hydration": "Often"
+  },
+  {
+    "Respondent ID": "R003",
+    "Average Daily Water Intake (Liters)": 3.2,
+    "Actively Increase Water Intake": false,
+    "Frequency of Adequate Hydration": "Often"
+  },
+  {
+    "Respondent ID": "R004",
+    "Average Daily Water Intake (Liters)": 3.8,
+    "Actively Increase Water Intake": false,
+    "Frequency of Adequate Hydration": "Often"
+  },
+  {
+    "Respondent ID": "R005",
+    "Average Daily Water Intake (Liters)": 3.1,
+    "Actively Increase Water Intake": false,
+    "Frequency of Adequate Hydration": "Often"
+  }
+]
