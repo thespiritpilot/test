@@ -1,0 +1,27 @@
+[
+  {
+    "person_id": true,
+    "drinks_over_3l_daily": false,
+    "estimated_daily_liters": 2.5
+  },
+  {
+    "person_id": 2,
+    "drinks_over_3l_daily": false,
+    "estimated_daily_liters": 2.0
+  },
+  {
+    "person_id": 3,
+    "drinks_over_3l_daily": false,
+    "estimated_daily_liters": 3.0
+  },
+  {
+    "person_id": 4,
+    "drinks_over_3l_daily": false,
+    "estimated_daily_liters": 2.8
+  },
+  {
+    "person_id": 5,
+    "drinks_over_3l_daily": false,
+    "estimated_daily_liters": 2.2
+  }
+]
